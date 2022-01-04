@@ -1,0 +1,23 @@
+﻿body {
+    padding:150px 400px 250px 400px; 
+}
+
+.label {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:small;
+    color:gray;
+}
+
+#cargue {
+    padding-top:10px
+}
+
+#BtnProcesar {
+    border-radius:20px 20px;
+    width:70px;
+    cursor:pointer;
+}
+
+#Procesar {
+    padding-top:10px;
+}

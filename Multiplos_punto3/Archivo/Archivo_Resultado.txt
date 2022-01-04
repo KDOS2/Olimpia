@@ -1,0 +1,4 @@
+Registro linea -> 1 SI ES MULTIPLO DE TRES
+Registro linea -> 2 ERROR NO ES NUMERO
+Registro linea -> 3 SI ES MULTIPLO DE TRES
+Registro linea -> 4 SI ES MULTIPLO DE TRES
